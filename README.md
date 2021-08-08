@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hello world! 👋🏾
+### Welcome to my profile 🙋🏾‍♂️
+#### About me  
+- 👨🏾‍🚀 &emsp; I’m currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
+- 😄 &emsp; Pronouns: He/His
+- 🐶 &emsp; I live with 2 dogs
 
-<!--
-**edmarpaulino/edmarpaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Likes
+-  📚 &emsp; Books
+-  🌎 &emsp; Languages
+-  🖥️ &emsp; Code
+-  📺 &emsp; Animes, Series & Movies
+-  🎮 &emsp; Videogames
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 42 projects
+<p align="center"><img src="https://badge42.herokuapp.com/api/stats/edpaulin?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
+
+<img src="https://github.com/edmarpaulino/42projects_pics/blob/master/libftm.png"> 
+
+---
+
+[![Basecamp](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=42basecamp&theme=tokyonight&hide_border=false)](https://github.com/edmarpaulino/libft)
+[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=libft&theme=tokyonight&hide_border=false)](https://github.com/edmarpaulino/libft)
+
+---
+
+ <div>
+  <a href="https://github.com/edmarpaulino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmarpaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpaulino&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
