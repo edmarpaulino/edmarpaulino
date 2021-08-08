@@ -21,7 +21,7 @@
 
 ---
 
-[![Basecamp](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=42basecamp&theme=tokyonight&hide_border=false)](https://github.com/edmarpaulino/libft)
+[![Basecamp](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=42basecamp&theme=tokyonight&hide_border=false)](https://github.com/edmarpaulino/42basecamp)
 [![Libft](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=libft&theme=tokyonight&hide_border=false)](https://github.com/edmarpaulino/libft)
 
 ---
