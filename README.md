@@ -28,14 +28,10 @@
 
 ---
  
-[![Basecamp](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=42basecamp&theme=tokyonight&hide_border=false)](https://github.com/edmarpaulino/42basecamp)
-[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=libft&theme=tokyonight&hide_border=false)](https://github.com/edmarpaulino/libft)
+[![Basecamp](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=42basecamp&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/42basecamp)
+[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=libft&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/libft)
 
 ---
 
- <div>
-  <a href="https://github.com/edmarpaulino">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edmarpaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpaulino&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+[![edmarpaulino's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmarpaulino&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/edmarpaulino?tab=repositories)
+[![edmarpaulino's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpaulino&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/edmarpaulino?tab=repositories)
