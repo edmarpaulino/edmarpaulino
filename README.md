@@ -30,6 +30,7 @@
  
 [![Basecamp](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=42basecamp&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/42basecamp)
 [![Libft](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=libft&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/libft)
+[![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=get_next_line&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/get_next_line)
 
 ---
 
