@@ -24,7 +24,8 @@
 ### 42 projects
 <p align="center"><img src="https://badge42.herokuapp.com/api/stats/edpaulin?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
 
-<img src="https://github.com/edmarpaulino/42projects_pics/blob/master/libftm.png"> 
+<a href=https://github.com/edmarpaulino/libft><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/libftm.png"></a>
+<a href=https://github.com/edmarpaulino/get_next_line><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/get_next_linem.png"></a>
 
 ---
  
