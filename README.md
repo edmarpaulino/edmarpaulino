@@ -35,6 +35,7 @@
 [![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=get_next_line&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/get_next_line)
 [![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=ft_printf&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/ft_printf)
 [![born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=born2beroot&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/born2beroot)
+[![fractol](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=fractol&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/fractol)
 
 ---
 
