@@ -24,10 +24,15 @@
 ### 42 projects
 <p align="center"><img src="https://badge42.herokuapp.com/api/stats/edpaulin?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
 
+<p align="center"><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/phase_onee.png"></a></p>
+<p align="center">
 <a href=https://github.com/edmarpaulino/libft><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/libftm.png"></a>
 <a href=https://github.com/edmarpaulino/get_next_line><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/get_next_linem.png"></a>
 <a href=https://github.com/edmarpaulino/ft_printf><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/ft_printfm.png"></a>
 <a href=https://github.com/edmarpaulino/born2beroot><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/born2berootm.png"></a>
+<a href=https://github.com/edmarpaulino/fractol><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/fractolm.png"></a>
+<a href=https://github.com/edmarpaulino/pipex><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/pipexm.png"></a>
+</p>
 
 ---
  
