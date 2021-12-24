@@ -36,12 +36,20 @@
 
 ---
  
-[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=libft&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/libft)
+[![libft](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=libft&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/libft)
 [![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=get_next_line&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/get_next_line)
 [![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=ft_printf&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/ft_printf)
 [![born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=born2beroot&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/born2beroot)
 [![fractol](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=fractol&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/fractol)
 [![pipex](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=pipex&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/pipex)
+
+---
+
+<a href=https://github.com/edmarpaulino/push_swap><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/push_swapm.png"></a>
+
+---
+
+[![push_swap](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=push_swap&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/push_swap)
 
 ---
 
