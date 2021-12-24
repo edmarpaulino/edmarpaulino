@@ -45,7 +45,9 @@
 
 ---
 
+<p align="center">
 <a href=https://github.com/edmarpaulino/push_swap><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/push_swapm.png"></a>
+ </p>
 
 ---
 
