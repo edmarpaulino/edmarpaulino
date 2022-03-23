@@ -22,8 +22,6 @@
 ---
 
 ### 42 projects
-<p align="center"><img src="https://badge42.herokuapp.com/api/stats/edpaulin?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
-
 <p align="center"><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/phase_onee.png"></a></p>
 <p align="center">
 <a href=https://github.com/edmarpaulino/libft><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/libftm.png"></a>
@@ -47,11 +45,13 @@
 
 <p align="center">
 <a href=https://github.com/edmarpaulino/push_swap><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/push_swapm.png"></a>
+<a href=https://github.com/SouzaSA/42sp_minishell><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/minishellm.png"></a>
  </p>
 
 ---
 
 [![push_swap](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=push_swap&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/push_swap)
+[![minishell](https://github-readme-stats.vercel.app/api/pin/?username=SouzaSA&repo=42sp_minishell&theme=tokyonight&hide_border=true)](https://github.com/SouzaSA/42sp_minishell)
 
 ---
 
