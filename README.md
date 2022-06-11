@@ -1,59 +1,41 @@
-## Hello world! 👋🏾
-### Welcome to my profile 🙋🏾‍♂️
-#### About me  
-- 👨🏾‍🚀 &emsp; I’m currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
-- 😄 &emsp; Pronouns: He/His
-- 🐶 &emsp; I live with 2 dogs
+## Hi, my name is Edmar and welcome to my GitHub's profile! 👋🏾
+<div align="center" >
+  <a href="https://github.com/edmarpaulino?tab=repositories">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmarpaulino&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpaulino&layout=compact&hide_border=true&theme=tokyonight"/>
+  </a>
+</div>
 
-#### Likes
--  📚 &emsp; Books
--  🌎 &emsp; Languages
--  🖥️ &emsp; Code
--  📺 &emsp; Animes, Series & Movies
--  🎮 &emsp; Videogames
+<div style="display: inline-block" align="center">
+  <br />
+  <img align="center" alt="C Language" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
 
 ---
-<p align="center">
+
+## About me:
+
+<p>
+Passionate about pets, anime and games, today I work as a fullstack developer at <a href="https://www.grupoboticario.com.br/" target"_blank">Grupo Boticário</a>, I am a fullstack student at <a href="https://www.labenu.com.br/" target"_blank">Labenu</a> and I am a software engineering student at <a href="https://www.42sp.org.br/" target"_blank">42 São Paulo</a> 👨🏾‍💻
+</p>
+<div align="center" >
+  <img alt="white fur dog waving its ears" src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" />
+</div>
+
+---
+
+## Contact me:
+
+<p align="center" >
  <a href = "mailto:edmarpaulino9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edmarpaulino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/edmarpaulino9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </p>
- 
----
-
-### 42 projects
-<p align="center"><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/phase_onee.png"></a></p>
-<p align="center">
-<a href=https://github.com/edmarpaulino/libft><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/libftm.png"></a>
-<a href=https://github.com/edmarpaulino/get_next_line><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/get_next_linem.png"></a>
-<a href=https://github.com/edmarpaulino/ft_printf><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/ft_printfm.png"></a>
-<a href=https://github.com/edmarpaulino/born2beroot><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/born2berootm.png"></a>
-<a href=https://github.com/edmarpaulino/fractol><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/fractolm.png"></a>
-<a href=https://github.com/edmarpaulino/pipex><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/pipexm.png"></a>
 </p>
 
----
- 
-[![libft](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=libft&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/libft)
-[![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=get_next_line&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/get_next_line)
-[![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=ft_printf&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/ft_printf)
-[![born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=born2beroot&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/born2beroot)
-[![fractol](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=fractol&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/fractol)
-[![pipex](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=pipex&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/pipex)
-
----
-
-<p align="center">
-<a href=https://github.com/edmarpaulino/push_swap><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/push_swapm.png"></a>
-<a href=https://github.com/SouzaSA/42sp_minishell><img src="https://github.com/edmarpaulino/42projects_pics/blob/master/minishellm.png"></a>
- </p>
-
----
-
-[![push_swap](https://github-readme-stats.vercel.app/api/pin/?username=edmarpaulino&repo=push_swap&theme=tokyonight&hide_border=true)](https://github.com/edmarpaulino/push_swap)
-[![minishell](https://github-readme-stats.vercel.app/api/pin/?username=SouzaSA&repo=42sp_minishell&theme=tokyonight&hide_border=true)](https://github.com/SouzaSA/42sp_minishell)
-
----
-
-[![edmarpaulino's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmarpaulino&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/edmarpaulino?tab=repositories)
-[![edmarpaulino's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpaulino&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/edmarpaulino?tab=repositories)
+<div align="center" >
+  <img alt="caramel dog waving its ears" src="https://media.giphy.com/media/y0mkt9yBEsrPW/giphy.gif" />
+</div>
