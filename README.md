@@ -1,8 +1,8 @@
 ## Hi, my name is Edmar and welcome to my GitHub's profile! 👋🏾
 <div align="center" >
   <a href="https://github.com/edmarpaulino?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmarpaulino&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpaulino&layout=compact&hide_border=true&theme=tokyonight"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=edmarpaulino&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" />
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpaulino&layout=compact&hide_border=true&theme=tokyonight"/>
   </a>
 </div>
 
